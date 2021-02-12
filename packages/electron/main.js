@@ -7,5 +7,6 @@
  * @flow strict-local
  * @format
  */
+ xxx
 
 module.exports = require('./build/TestRunnerMain.js').default;
